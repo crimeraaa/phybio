@@ -1,0 +1,9 @@
+# Local
+.ipynb_checkpoints/
+
+## Binary blobs
+*.pdf
+*.mp4
+
+## Excel files
+lab/
